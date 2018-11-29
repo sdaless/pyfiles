@@ -1,0 +1,10 @@
+#Name: Sara D'Alessandro
+#Date: November 20 2018
+#The purpose of this program is to execute a unix shell.
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results
+
